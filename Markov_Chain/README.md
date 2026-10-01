@@ -187,7 +187,7 @@ Markov_Chain
 ```bash
 git clone https://github.com/ParmidaGh/Computational_Data_Mining.git
 
-cd Computational_Data_Mining/HW4_Markov
+cd Computational_Data_Mining/Markov_Chain
 ```
 
 ## Run the Analysis
