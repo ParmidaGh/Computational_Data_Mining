@@ -157,7 +157,7 @@ cd Computational_Data_Mining
 Enter a project folder and follow the instructions in its README. For example:
 
 ```bash
-cd HW1_Fundamental_Subspaces_Gauss_Jordan
+cd Fundamental_Subspaces_Gauss_Jordan
 
 python fundamental_subspaces_analyzer.py
 ```
