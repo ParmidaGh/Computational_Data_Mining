@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:f472b6&height=220&section=header&text=Power%20Method%20%26%20QR%20Decomposition&fontSize=34&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:f472b6&height=220&section=header&text=Power%20Method%20QR%20Decomposition&fontSize=34&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 </div>
 
 ---
